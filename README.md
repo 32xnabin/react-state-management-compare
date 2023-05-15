@@ -6,4 +6,4 @@
 
 ## details
 
-This is a simple code comparison between three famous state management methods in React
+This is a simple code comparison between three famous state management methods in React. It also has a bare minimum nest js api server
